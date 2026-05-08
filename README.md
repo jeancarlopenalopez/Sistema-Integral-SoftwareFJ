@@ -6,6 +6,14 @@ Este proyecto consiste en el desarrollo de un sistema integral de gestión de cl
 
 El sistema permite registrar clientes, gestionar diferentes tipos de servicios y procesar reservas de manera segura y organizada, garantizando la estabilidad del programa incluso cuando ocurren errores durante la ejecución.
 
+participantes
+
+jean carlo peña lopez 
+dilan salazar peña 
+numero 3
+numero 4
+numero 5
+
 ---
 
 # Características del Sistema
