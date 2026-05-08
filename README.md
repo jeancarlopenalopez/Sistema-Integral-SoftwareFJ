@@ -8,13 +8,13 @@ El sistema permite registrar clientes, gestionar diferentes tipos de servicios y
 
 ---
 
-#participantes
+# participantes
 
-jean carlo peña lopez 
-dilan salazar peña 
-numero 3
-numero 4
-numero 5
+- jean carlo peña lopez 
+- dilan salazar peña 
+- numero 3
+- numero 4
+- numero 5
 
 ---
 
