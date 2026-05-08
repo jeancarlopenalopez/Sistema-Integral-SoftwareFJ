@@ -1,0 +1,22 @@
+[2026-05-07 21:19:25] Cliente Juan registrado.
+[2026-05-07 21:19:25] Error cliente inválido: El nombre no puede estar vacío.
+[2026-05-07 21:19:25] Reserva procesada correctamente para Juan Perez
+[2026-05-07 21:19:25] Proceso de reserva finalizado.
+[2026-05-07 21:19:25] Reserva confirmada para Juan Perez
+[2026-05-07 21:19:25] Reserva procesada correctamente para Juan Perez
+[2026-05-07 21:19:25] Proceso de reserva finalizado.
+[2026-05-07 21:19:25] Reserva confirmada para Juan Perez
+[2026-05-07 21:19:25] Reserva procesada correctamente para Juan Perez
+[2026-05-07 21:19:25] Proceso de reserva finalizado.
+[2026-05-07 21:19:25] Reserva confirmada para Juan Perez
+[2026-05-07 21:19:25] La duración debe ser mayor que cero.
+[2026-05-07 21:19:25] Reserva procesada correctamente para Juan Perez
+[2026-05-07 21:19:25] Proceso de reserva finalizado.
+[2026-05-07 21:19:25] Reserva cancelada para Juan Perez
+[2026-05-07 21:19:25] Precio inválido para reserva de sala.
+[2026-05-07 21:19:25] Reserva procesada correctamente para Maria Lopez
+[2026-05-07 21:19:25] Proceso de reserva finalizado.
+[2026-05-07 21:19:25] Reserva confirmada para Maria Lopez
+[2026-05-07 21:19:25] Reserva procesada correctamente para Carlos Ruiz
+[2026-05-07 21:19:25] Proceso de reserva finalizado.
+[2026-05-07 21:19:25] Reserva confirmada para Carlos Ruiz
